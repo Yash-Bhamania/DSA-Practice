@@ -22,16 +22,33 @@
 
 
 
+
 // ************************************** METHOD THIRD *********************************
 
+// let arr = [1, 2, 4, 5, 6, 7]
 
-let arr = [1, 2, 4, 5, 6, 7]
+// let reverseArr = []
 
-let reverseArr = []
+// for (i = 0; i < arr.length; i++) {
+    //     reverseArr.unshift(arr[i])
+    
+    // }
+    
+    // console.log(reverseArr);
+    
+    
+    
+// ************************************** METHOD FORTH *********************************
 
-for (i = 0; i < arr.length; i++) {
-    reverseArr.unshift(arr[i])
+// let arr = [1,2,3,4,5,6]
 
-}
+// for (let i = 0; i < Math.floor(arr.length / 2); i++){
+//    let temp = arr[i]
+// arr[i]= arr[arr.length -1 -i];
+// arr[arr.length -1 - i]= temp;
 
-console.log(reverseArr);
+// console.log(temp);
+// }
+
+// console.log(arr);
+
